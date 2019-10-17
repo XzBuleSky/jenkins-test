@@ -43,7 +43,7 @@
 		</dependency>
 	</dependencies>
 
-	<build
+	<build>
 	    <filename>demo</filename>
 		<plugins>
 			<plugin>

@@ -15,7 +15,7 @@ public class Test {
 
     @GetMapping("/")
     public String test() {
-        return "Hello World | xiezijun-1018-10-34 ";
+        return "Hello World | xiezijun-1018-10-34 | 测试版本更新";
     }
 
 }
